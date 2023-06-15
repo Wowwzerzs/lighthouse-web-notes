@@ -1,3 +1,4 @@
-# Taha Mulla's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+# [Taha Mulla's](https://github.com/Wowwzerzs) Notes
+## Summary 
+
+This repository contains all of the notes taken by Taha Mulla for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
